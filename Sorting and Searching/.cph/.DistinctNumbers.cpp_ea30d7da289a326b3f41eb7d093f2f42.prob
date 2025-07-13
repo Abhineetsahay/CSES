@@ -1,0 +1,1 @@
+{"name":"Local: DistinctNumbers","url":"e:\\CSES\\Sorting and Searching\\DistinctNumbers.cpp","tests":[{"id":1752430161997,"input":"5\n2 3 2 2 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSES\\Sorting and Searching\\DistinctNumbers.cpp","group":"local","local":true}
