@@ -17,7 +17,7 @@ void solve()
     for (int i = 0; i < n; i++)
         cin >> x[i];
 
-    unordered_map<ll, ll> freqTrack;
+    map<ll, ll> freqTrack;
 
     ll left = 0, right = 0;
     ll count = 0;
