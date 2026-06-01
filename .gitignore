@@ -1,0 +1,29 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Clangd
+.cache/
+.clangd/
+
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
